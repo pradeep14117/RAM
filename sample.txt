@@ -4,3 +4,5 @@ tiger
 lion 
 dog
 picock
+laptop 
+nac
