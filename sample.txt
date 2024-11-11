@@ -1,2 +1,6 @@
 gt
 ju
+tiger
+lion 
+dog
+picock
